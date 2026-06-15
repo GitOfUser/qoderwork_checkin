@@ -1,0 +1,12 @@
+# 运行日志（自动生成，不提交）
+checkin.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# IDE
+.vscode/
+.idea/
