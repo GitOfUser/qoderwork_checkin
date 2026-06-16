@@ -31,7 +31,7 @@ import pyautogui
 # 按钮的屏幕绝对坐标（根据显示器分辨率设定）
 # 如果更换显示器或修改了分辨率/缩放，需要重新获取坐标
 CHECKIN_ENTRY_BUTTON = (2218, 19)    # "签到/邀请，赚积分" 按钮
-CHECKIN_CONFIRM_BUTTON = (2204, 270)  # "签到" 确认按钮
+CHECKIN_CONFIRM_BUTTON = (2236, 271)  # "签到" 确认按钮
 
 # 各步骤之间的等待时间（秒），可根据网络/响应速度调整
 WAIT_AFTER_ACTIVATE = 1.5     # 激活窗口后等待

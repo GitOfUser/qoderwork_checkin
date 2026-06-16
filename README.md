@@ -92,6 +92,7 @@ CHECKIN_CONFIRM_BUTTON = (2204, 270)  # "签到" 确认按钮
 ## License
 
 MIT
+
 ## 联系我
 Git：https://github.com/GitOfUser
 微信公众号：码律工坊
